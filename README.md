@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Haroldo Abreu, torcedor do Galo e pai de menino RN2024 🖐️
-Atualmento trabalho como Analista DevOps Pleno.
+
+Atualmente trabalhando como Analista DevOps Pleno.
 
 Estudos constante.:
 
