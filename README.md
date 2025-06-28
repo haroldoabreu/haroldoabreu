@@ -1,10 +1,12 @@
-## Olá! Eu sou o Haroldo Abreu, torcedor do Galo e pai de menino RN2024 🖐️
+## Olá! Eu sou o Haroldo Abreu, torcedor do Galo e pai de RN2024.
 
-Atualmente trabalhando como Analista DevOps Pleno.
+Atualmente trabalhando como DevOps Engineer.
 
 Estudos constante.:
 
-- Pick - kubernetes e docker
+- HomeLab Proxmox
+- Docker
+- kubernetes
 - Inglês
 - ChatGPT
 - Aws Security
@@ -15,10 +17,10 @@ Estudos constante.:
 - Shell Script
 - Ansible
 
+## GitLab, repositório dos meus projetos [público].
+
+[![GitLab](https://img.shields.io/badge/GitLab-fc6d27?style=for-the-badge&logo=linkedin&logoColor=white)](https://gitlab.com/haroldoabreu)
+
 Networking
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haroldoabreudevops/)
-
-## GitLab, adptando-se como repositório principal.
-
-https://gitlab.com/haroldoabreu
+[![Linktree](https://img.shields.io/badge/Linktree-acdc5c?style=for-the-badge&logo=linkedin&logoColor=white)](https://linktr.ee/haroldoabreualves)
